@@ -1852,7 +1852,7 @@ body {
   top: 0;
 }
 .cid-r1qwr2tJRB progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
+  background: #333333;
 }
 .cid-r1qwr2tJRB progress::-webkit-progress-value {
   background: #666;
@@ -1881,7 +1881,7 @@ body {
   outline: none;
 }
 .cid-r1qwr2tJRB .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
+  background: #666;
 }
 .cid-r1qwr2tJRB .progress_value span {
   padding-left: 30px;
